@@ -1,0 +1,4 @@
+kafka_python==2.0.2
+findspark==1.4.2
+pyspark==3.0.0
+kafka-python==2.0.2
